@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Gabriel Gomes Mendes da Luz] (https://github.com/ggml1)
+- Place: Recife, Pernambuco, Brazil
+- Bio: Computer Engineering Student
+- GitHub: [ggml1](https://github.com/ggml1)
